@@ -1,5 +1,5 @@
 <?php
-echo("submitted")
+echo("submitted");
         echo $_POST["gender"]."<br>";
         echo $_POST["forename"]."<br>";
         echo $_POST["surname"]."<br>";
